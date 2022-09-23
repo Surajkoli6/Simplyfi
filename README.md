@@ -7,7 +7,8 @@ input: 504678
 output: 5,04,67
 
 
-![Screenshot (5)](https://user-images.githubusercontent.com/114252395/192049502-73a8e694-0ead-4dd1-bc96-074ebba43860.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/114252395/192053944-dc7813e4-ccb4-4bea-be80-89120e969921.png)
+
 
 
 Question 2 :
